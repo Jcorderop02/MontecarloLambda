@@ -1,6 +1,6 @@
 # Aproximación a Pi mediante Montecarlo con Lambda
 
-_El propósito de este proyecto es hacer una aproximación a Pi mediante el método de Montecarlo de forma recursiva, usando diferentes números para comprobar su correcto funcionamiento y así poder demostrar que funciona._
+_El propósito de este proyecto es hacer una aproximación a Pi mediante el método de Montecarlo usando lambda, usando diferentes números para comprobar su correcto funcionamiento y así poder demostrar que funciona._
 
 ---
 ## Inicio

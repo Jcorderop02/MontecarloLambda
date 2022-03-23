@@ -13,7 +13,7 @@ limitations under the License.*/
  * Clase con varias implementaciones de algoritmos matemáticos
  *
  * @author Juan Cordero
- * @version 1.0 22/3/22
+ * @version 1.0 22/03/22
  */
 package mates;
 

@@ -20,7 +20,7 @@ import mates.*;
  * Se encarga de imprimir por pantalla una aproximación del número Pi accediendo al método generarNúmeroPi
  *
  * @author Juan Cordero
- * @version 1.0 24/2/22
+ * @version 1.0 22/03/22
  */
 public class Principal {
     public static void main(String[] args) {
